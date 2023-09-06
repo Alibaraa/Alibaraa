@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Welcome to Ali B Alagha profile!
- <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473qyjw72j1qj0xhv2qsph0mvy15r3r8tcmicn92qa&ep=v1_gifs_search&rid=giphy.gif&ct=g width="28">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473qyjw72j1qj0xhv2qsph0mvy15r3r8tcmicn92qa&ep=v1_gifs_search&rid=giphy.gif&ct=g width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -18,7 +18,7 @@
 
 <a href="https://www.linkedin.com/in/ali-alagha-20b076284/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Alagha-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AliAlagha12" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Alagha-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech skill:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=JAVA)
 ![php](https://img.shields.io/badge/-php-000?&logo=PHP)
