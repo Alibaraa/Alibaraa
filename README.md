@@ -21,4 +21,4 @@
 ![selenium](https://img.shields.io/badge/-Pytest-000?&logo=Pytest)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Laravel](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
-![Google sheet](https://img.shields.io/badge/Googlee&logo=google-sheets)
+![Laravel](https://img.shields.io/badge/-Google-sheets-000?&logo=Google-sheets)
