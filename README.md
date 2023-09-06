@@ -18,7 +18,7 @@
 
 <a href="https://www.linkedin.com/in/ali-alagha-20b076284/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Alagha-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AliAlagha12" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Alagha-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech skill:
+### 🛠 &nbsp;Tech skills:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=JAVA)
 ![php](https://img.shields.io/badge/-php-000?&logo=PHP)
