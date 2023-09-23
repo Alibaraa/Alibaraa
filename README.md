@@ -2,8 +2,8 @@
 
 <h3 align="center">
   Welcome to Ali B Alagha profile!
-  <!--<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473qyjw72j1qj0xhv2qsph0mvy15r3r8tcmicn92qa&ep=v1_gifs_search&rid=giphy.gif&ct=g width="28">
---></h3>
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473qyjw72j1qj0xhv2qsph0mvy15r3r8tcmicn92qa&ep=v1_gifs_search&rid=giphy.gif&ct=g width="28">
+</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
