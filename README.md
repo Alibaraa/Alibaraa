@@ -10,9 +10,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Quality%20Assurance;Cyber%20Security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software quality assurance & Cyber security Engineer 
+- 🏢 I'm Mobile Applications Developer(Android & IOS) & Cyber security Engineer 
 - 👨‍💻 As a sudent in Cyber Security Engineer (5th year), I have good knowledge in many computer sciences such as programming, networking, cloud storage, systems administration and ethical penetration testing..
-- 💬 Ask me about my experience with Java, Python, Selenium , linux , penteration testing or anything related to quality assurance & cyber security.
+- 💬 Ask me about my experience with Dart, Flutter, Java, Python, Selenium , linux , penteration testing or anything related to quality assurance & cyber security.
 
 ### Connect with Me :
 
