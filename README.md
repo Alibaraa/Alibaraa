@@ -2,13 +2,13 @@
 
 <h3 align="center">
   Welcome to Ali B Alagha profile!
-<!--   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473qyjw72j1qj0xhv2qsph0mvy15r3r8tcmicn92qa&ep=v1_gifs_search&rid=giphy.gif&ct=g width="28"> -->
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473qyjw72j1qj0xhv2qsph0mvy15r3r8tcmicn92qa&ep=v1_gifs_search&rid=giphy.gif&ct=g width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Quality%20Assurance;Cyber%20Security;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+</p> -->
 
 - 🏢 I'm Mobile Applications Developer(Android & IOS) & Cyber security Engineer 
 - 👨‍💻 As a sudent in Cyber Security Engineer (5th year), I have good knowledge in many computer sciences such as programming, networking, cloud storage, systems administration and ethical penetration testing..
